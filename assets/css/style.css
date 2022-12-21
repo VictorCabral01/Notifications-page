@@ -51,13 +51,12 @@ img{
 
 div{
     margin-top: 50px;
-    
     height: 90px;
     padding-top: 25px;
     height: 100px;
     width: 900px;
     margin-left: 20px;
-    background-color: #eff3f7;
+    
 }
 
 
@@ -81,8 +80,26 @@ div{
     height: 200px;
 }
 
+
+#teste{
+    cursor: pointer;
+}
+
+.cinza{
+
+    background-color: rgb(243, 236, 236);
+
+}
+
+.branco{
+
+    background-color: white;
+}
+
+
 *{
     margin: 0%;
     padding: 0%;
+    
 }
 
