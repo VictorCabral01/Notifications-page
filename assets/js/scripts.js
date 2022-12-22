@@ -1,17 +1,11 @@
 
-const click = document.getElementById('teste').style.backgraund = 'red'
 
-click.addEventListener("Click", eventoClick);
+function eventoClick(x){
 
+ 
+document.getElementById(x).style.background = "rgb(243, 236, 236)"; 
 
-
-function eventoClick(){
-
-const click = document.getElementById('teste')
-      
-
-click.classList.add("cinza");
-
-   
+  
 }
+
 
